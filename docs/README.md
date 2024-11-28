@@ -1,5 +1,4 @@
-```markdown
-# Market Simulation Project Documentation
+# Market Simulation Project
 
 ## Overview
 
@@ -37,17 +36,7 @@ The following libraries are required:
    ```bash
    git clone https://github.com/your-repo/market-simulation.git
    cd market-simulation
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Install the package:
-   ```bash
-   pip install .
-   ```
 
----
 
 ## Project Structure
 
