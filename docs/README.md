@@ -34,7 +34,7 @@ The following libraries are required:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/market-simulation.git
+   git clone https://github.com/LeonVries/market-simulation.git
    cd market-simulation
 
 
@@ -208,7 +208,7 @@ pytest
 
 ## Authors
 
-[Your Name]\
+Leon de Vries\
 Email: [mail@leondevries.de](mailto\:mail@leondevries.de)
 
 ---
