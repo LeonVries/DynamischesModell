@@ -11,7 +11,7 @@ setup(
         'matplotlib>=3.4.0',
         'scipy>=1.7.0'
     ],
-    author='Your Name',
+    author='Leon de Vries',
     description='A market simulation model with strategic pricing',
     long_description=open('docs/README.md').read(),
     python_requires='>=3.8',
